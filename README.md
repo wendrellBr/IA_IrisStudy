@@ -1,6 +1,13 @@
 # Estudo de Classificação da Flor Iris
 
-![image](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/844e4f75-29b5-412b-bbcf-fd44af7d4d70)
+<div style="border: 1px solid #ddd; padding: 10px;">
+    <img src="[URL_da_Imagem](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/5495d96c-3e06-4b28-bed5-0b901171dde3)" alt="Tipos de Iris">
+</div>
+<div style="border: 1px solid #ddd; padding: 10px;">
+    <img src="[URL_da_Imagem](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/844e4f75-29b5-412b-bbcf-fd44af7d4d70)" alt="Iris feita por IA">
+</div>
+
+
 
 
 Este é um repositório pessoal dedicado ao meu estudo sobre a IA com base na classificação da flor iris. O projeto tem como objetivo principal aplicar técnicas de aprendizado de máquina para classificar as diferentes espécies de iris com base em suas características.
