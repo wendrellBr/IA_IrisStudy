@@ -1,11 +1,12 @@
 # Estudo de Classificação da Flor Iris
 
 <div style="border: 1px solid #ddd; padding: 10px;">
-    <img src="[URL_da_Imagem](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/5495d96c-3e06-4b28-bed5-0b901171dde3)" alt="Tipos de Iris">
+    <img src="https://github.com/wendrellBr/IA_IrisStudy/raw/main/assets/90914846/5495d96c-3e06-4b28-bed5-0b901171dde3.png" alt="Tipos de Iris">
 </div>
 <div style="border: 1px solid #ddd; padding: 10px;">
-    <img src="[URL_da_Imagem](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/844e4f75-29b5-412b-bbcf-fd44af7d4d70)" alt="Iris feita por IA">
+    <img src="https://github.com/wendrellBr/IA_IrisStudy/raw/main/assets/90914846/844e4f75-29b5-412b-bbcf-fd44af7d4d70.png" alt="Iris feita por IA">
 </div>
+
 
 
 
