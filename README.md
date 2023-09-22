@@ -1,9 +1,6 @@
 # Estudo de Classificação da Flor Iris
 
 ![image](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/99f53d74-3804-4be7-bebc-62e376e065c2)
-![image](https://github.com/wendrellBr/IA_IrisStudy/assets/90914846/e1a0465d-cd31-44e7-8b30-9f1709a88eea)
-
-
 
 
 
