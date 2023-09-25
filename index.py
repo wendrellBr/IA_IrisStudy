@@ -16,7 +16,7 @@ df = pd.DataFrame(data=np.c_[iris['data'], iris['target']], columns=iris['featur
 df['species'] = pd.Categorical.from_codes(iris.target, iris.target_names)
 
 # Exibindo o DataFrame
-df
+print(df)
 
 # Dividindo os dados em características (X) e alvo (y)
 X = df.drop('species', axis=1)
@@ -31,6 +31,7 @@ X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
 # Exibindo as dimensões dos conjuntos de treinamento e teste
+print("-"*50)
 print("Dimensões dos conjuntos de treinamento e teste: ")
 print("Conjunto de Treinamento (X):   ", X_train.shape)
 print("Conjunto de Teste (X):         ", X_test.shape)
@@ -55,13 +56,15 @@ confusion = confusion_matrix(y_test, y_pred)
 # Exibir o relatório de classificação
 report = classification_report(y_test, y_pred)
 
+print("\nResultados da Avaliação do Modelo\n")
+print("-"*50)
+print(f"Precisão: {accuracy:.2f}")
 
-print("Resultados da Avaliação do Modelo\n")
-print(f"Precisão: {accuracy:.2f}\n")
-
+print("-"*50)
 print("Matriz de Confusão:")
 print(confusion)
-print("\n")
 
-print("Relatório de Classificação:")
+print("-"*50)
+print("Relatório de Classificação:\n")
 print(report)
+print("-"*50)
