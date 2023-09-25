@@ -5,7 +5,7 @@
 
 
 
-Este é um repositório pessoal dedicado ao meu estudo sobre a IA com base na classificação da flor iris. O projeto tem como objetivo principal aplicar técnicas de aprendizado de máquina para classificar as diferentes espécies de iris com base em suas características.
+Este é um repositório dedicado ao estudo sobre a IA com base na classificação da flor iris. O projeto tem como objetivo principal aplicar técnicas de aprendizado de máquina para classificar as diferentes espécies de iris com base em suas características.
 
 ## Visão Geral
 
@@ -33,9 +33,6 @@ O conjunto de dados utilizado neste projeto é o [Iris Dataset](https://archive.
 
 - [Wendrell Possato Oliveira](https://github.com/wendrellBr)
 
-## Referencias
-
-- [Andre Marcelino Pereira](https://github.com/)
 
 ## Licença
 
