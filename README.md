@@ -22,12 +22,8 @@ O conjunto de dados utilizado neste projeto é o [Iris Dataset](https://archive.
 3. Avaliação do Modelo: Avaliar o desempenho dos modelos usando métricas como precisão, recall e F1-score.
 4. Visualização: Criar gráficos e visualizações para melhor compreensão dos resultados.
 
-## Estrutura do Repositório
-
-- `data/`: Contém o conjunto de dados iris.
-- `notebooks/`: Jupyter notebooks com o código fonte e análises.
-- `images/`: Imagens e gráficos gerados durante a análise.
-- `README.md`: Este arquivo README.
+## Documentação
+[Notion](https://friendly-space-4e4.notion.site/Flores-Iris-Desenvolvendo-um-Algoritmo-de-Aprendizado-de-M-quina-9f4e831ce5104660990a9aed5e2b63e2)
 
 ## Autor
 
